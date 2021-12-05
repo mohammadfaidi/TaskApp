@@ -1,0 +1,764 @@
+CRITICAL - 2021-11-29 03:26:13 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-29 03:26:39 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-29 03:26:39 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-29 03:26:40 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-29 03:26:59 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-29 03:27:10 --> syntax error, unexpected 'return' (T_RETURN)
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Test')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 03:27:11 --> syntax error, unexpected 'return' (T_RETURN)
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('Test')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('Test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 03:27:14 --> syntax error, unexpected 'return' (T_RETURN)
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 03:28:32 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-29 03:28:33 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-29 03:28:34 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-29 03:29:24 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-29 03:29:24 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-29 03:29:24 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-29 03:29:52 --> Class 'Controller' not found
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-29 03:29:52 --> Class 'Controller' not found
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-29 03:29:53 --> Class 'Controller' not found
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-29 03:29:54 --> Class 'Controller' not found
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-29 03:30:31 --> Class 'Controller' not found
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-29 03:30:32 --> Class 'Controller' not found
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-29 03:31:51 --> Class 'Controller' not found
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-29 03:32:29 --> Invalid file: welcome_test.php
+#0 C:\xampp\htdocs\ci\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_test.ph...')
+#1 C:\xampp\htdocs\ci\system\Common.php(1097): CodeIgniter\View\View->render('welcome_test', Array, true)
+#2 C:\xampp\htdocs\ci\app\Controllers\Test.php(8): view('welcome_test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->index()
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-29 03:32:30 --> Invalid file: welcome_test.php
+#0 C:\xampp\htdocs\ci\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_test.ph...')
+#1 C:\xampp\htdocs\ci\system\Common.php(1097): CodeIgniter\View\View->render('welcome_test', Array, true)
+#2 C:\xampp\htdocs\ci\app\Controllers\Test.php(8): view('welcome_test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->index()
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-29 03:32:32 --> Invalid file: welcome_test.php
+#0 C:\xampp\htdocs\ci\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_test.ph...')
+#1 C:\xampp\htdocs\ci\system\Common.php(1097): CodeIgniter\View\View->render('welcome_test', Array, true)
+#2 C:\xampp\htdocs\ci\app\Controllers\Test.php(8): view('welcome_test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->index()
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-29 03:33:17 --> Invalid file: welcome_test.php
+#0 C:\xampp\htdocs\ci\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_test.ph...')
+#1 C:\xampp\htdocs\ci\system\Common.php(1097): CodeIgniter\View\View->render('welcome_test', Array, true)
+#2 C:\xampp\htdocs\ci\app\Controllers\Test.php(11): view('welcome_test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->index()
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-29 03:33:19 --> Invalid file: welcome_test.php
+#0 C:\xampp\htdocs\ci\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_test.ph...')
+#1 C:\xampp\htdocs\ci\system\Common.php(1097): CodeIgniter\View\View->render('welcome_test', Array, true)
+#2 C:\xampp\htdocs\ci\app\Controllers\Test.php(11): view('welcome_test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->index()
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-29 03:33:59 --> Invalid file: welcome_test.php
+#0 C:\xampp\htdocs\ci\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_test.ph...')
+#1 C:\xampp\htdocs\ci\system\Common.php(1097): CodeIgniter\View\View->render('welcome_test', Array, true)
+#2 C:\xampp\htdocs\ci\app\Controllers\Test.php(11): view('welcome_test')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->index()
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-29 04:25:50 --> Call to a member function database() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->index()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 04:32:07 --> syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 04:32:10 --> syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test/hello')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test/hello')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 04:32:11 --> syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test/hello')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test/hello')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 04:32:16 --> syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 04:32:27 --> syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 04:50:41 --> syntax error, unexpected 'JOHN' (T_STRING), expecting ')'
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 05:15:33 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('user')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('user')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-29 05:17:11 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('user')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('user')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-29 05:17:12 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('user')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('user')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-29 05:17:12 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('user')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('user')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-29 05:17:13 --> Class 'CI_Controller' not found
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('user')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('user')
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-29 05:19:54 --> Call to a member function post() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 05:22:21 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->hello()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 05:24:30 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->viewlogin()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:16:12 --> Call to a member function post() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:24:41 --> syntax error, unexpected '}'
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test/login')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test/login')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 06:25:37 --> Call to a member function post() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:25:52 --> Call to a member function post() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:26:32 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:28:18 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:28:19 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:28:20 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:28:29 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:30:14 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:30:16 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:30:16 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:30:16 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:30:16 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:30:32 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:30:33 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:30:33 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:30:33 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:30:34 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:30:37 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:31:16 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:31:18 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:32:20 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:32:21 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:32:22 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:32:22 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:32:22 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:32:24 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:32:26 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:32:26 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:32:26 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:32:28 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:32:35 --> Call to a member function view() on null
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:32:56 --> Undefined property: App\Controllers\Test::$load
+#0 C:\xampp\htdocs\ci\app\Controllers\Test.php(59): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 59, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 06:33:49 --> Undefined property: App\Controllers\Test::$input
+#0 C:\xampp\htdocs\ci\app\Controllers\Test.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 06:34:58 --> Function name must be a string
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:34:59 --> Function name must be a string
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-29 06:35:33 --> Undefined variable: data
+#0 C:\xampp\htdocs\ci\app\Controllers\Test.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 60, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 06:36:15 --> Undefined variable: data
+#0 C:\xampp\htdocs\ci\app\Controllers\Test.php(61): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 61, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 06:36:16 --> Undefined variable: data
+#0 C:\xampp\htdocs\ci\app\Controllers\Test.php(61): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 61, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 06:36:16 --> Undefined variable: data
+#0 C:\xampp\htdocs\ci\app\Controllers\Test.php(61): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 61, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 06:36:17 --> Undefined variable: data
+#0 C:\xampp\htdocs\ci\app\Controllers\Test.php(61): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 61, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 07:17:22 --> syntax error, unexpected '*'
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test/login')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test/login')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 07:17:39 --> syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test/login')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test/login')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 07:26:05 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+#0 C:\xampp\htdocs\ci\app\Controllers\Test.php(46): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 46, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 07:26:39 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+#0 C:\xampp\htdocs\ci\app\Controllers\Test.php(46): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 46, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 07:28:14 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+#0 C:\xampp\htdocs\ci\app\Controllers\Test.php(46): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 46, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 07:30:44 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+#0 C:\xampp\htdocs\ci\app\Controllers\Test.php(46): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 46, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 07:38:13 --> syntax error, unexpected '"', expecting ')'
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test/login')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test/login')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 07:39:15 --> syntax error, unexpected '"', expecting ')'
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test/login')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test/login')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 07:51:41 --> syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test/login')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test/login')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 07:52:06 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test/login')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test/login')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 07:52:32 --> syntax error, unexpected '"', expecting ')'
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test/login')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test/login')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 07:52:36 --> syntax error, unexpected '"', expecting ')'
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test/login')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test/login')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 07:53:04 --> Undefined property: App\Controllers\Test::$db
+#0 C:\xampp\htdocs\ci\app\Controllers\Test.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 07:53:07 --> Undefined property: App\Controllers\Test::$db
+#0 C:\xampp\htdocs\ci\app\Controllers\Test.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 07:53:21 --> Undefined variable: db
+#0 C:\xampp\htdocs\ci\app\Controllers\Test.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 07:53:58 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+#0 C:\xampp\htdocs\ci\app\Controllers\Test.php(43): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 07:54:57 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+#0 C:\xampp\htdocs\ci\app\Controllers\Test.php(43): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 08:04:33 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+#0 C:\xampp\htdocs\ci\app\Controllers\Test.php(56): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 56, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 08:06:58 --> Undefined property: App\Controllers\Test::$db
+#0 C:\xampp\htdocs\ci\app\Controllers\Test.php(57): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-29 08:07:12 --> Object of class CodeIgniter\Database\MySQLi\Connection could not be converted to string
+#0 C:\xampp\htdocs\ci\app\Controllers\Test.php(57): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 57, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-11-29 08:08:24 --> Unknown column 'dsad' in 'field list'
+CRITICAL - 2021-11-29 08:08:24 --> Unknown column 'dsad' in 'field list'
+#0 C:\xampp\htdocs\ci\system\Database\MySQLi\Connection.php(292): mysqli->query('Insert into stu...', 0)
+#1 C:\xampp\htdocs\ci\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('Insert into stu...')
+#2 C:\xampp\htdocs\ci\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('Insert into stu...')
+#3 C:\xampp\htdocs\ci\app\Controllers\Test.php(57): CodeIgniter\Database\BaseConnection->query('Insert into stu...')
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2021-11-29 08:08:45 --> Unknown column 'dsad' in 'field list'
+CRITICAL - 2021-11-29 08:08:45 --> Unknown column 'dsad' in 'field list'
+#0 C:\xampp\htdocs\ci\system\Database\MySQLi\Connection.php(292): mysqli->query('Insert into stu...', 0)
+#1 C:\xampp\htdocs\ci\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('Insert into stu...')
+#2 C:\xampp\htdocs\ci\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('Insert into stu...')
+#3 C:\xampp\htdocs\ci\app\Controllers\Test.php(57): CodeIgniter\Database\BaseConnection->query('Insert into stu...')
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2021-11-29 08:08:59 --> Unknown column 'esmale' in 'field list'
+CRITICAL - 2021-11-29 08:08:59 --> Unknown column 'esmale' in 'field list'
+#0 C:\xampp\htdocs\ci\system\Database\MySQLi\Connection.php(292): mysqli->query('Insert into stu...', 0)
+#1 C:\xampp\htdocs\ci\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('Insert into stu...')
+#2 C:\xampp\htdocs\ci\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('Insert into stu...')
+#3 C:\xampp\htdocs\ci\app\Controllers\Test.php(57): CodeIgniter\Database\BaseConnection->query('Insert into stu...')
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-11-29 08:26:13 --> Call to undefined function App\Controllers\escape()
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

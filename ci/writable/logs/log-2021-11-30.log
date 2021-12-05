@@ -1,0 +1,78 @@
+CRITICAL - 2021-11-30 02:52:52 --> syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test/login')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test/login')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-30 03:22:45 --> syntax error, unexpected '$query' (T_VARIABLE)
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test/login')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test/login')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-30 03:47:46 --> syntax error, unexpected 'table' (T_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test/login')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test/login')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-30 03:48:05 --> Undefined variable: users
+#0 C:\xampp\htdocs\ci\app\Controllers\Test.php(113): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 113, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-30 05:05:12 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\ci\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\ci\app\Controllers\Test.php(98): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-30 05:05:49 --> syntax error, unexpected 'return' (T_RETURN), expecting ';'
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test/login')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test/login')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-30 06:16:39 --> syntax error, unexpected 'color' (T_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test/login')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test/login')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-30 06:16:52 --> syntax error, unexpected 'color' (T_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\ci\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('test/login')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('test/login')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-30 06:20:22 --> Undefined variable: result
+#0 C:\xampp\htdocs\ci\app\Controllers\Test.php(110): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 110, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-30 06:20:38 --> Undefined variable: result
+#0 C:\xampp\htdocs\ci\app\Controllers\Test.php(110): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 110, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-30 06:20:46 --> Undefined variable: result
+#0 C:\xampp\htdocs\ci\app\Controllers\Test.php(110): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 110, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->login()
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
