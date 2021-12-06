@@ -25,16 +25,12 @@
 
 
 <?=form_open("/tasks/update/".$tasks['id']) ?>
-<div>
-<label for="description"> Description </lable>
-<input type="text" name="description" id="description" value="<?= esc($tasks['description']) ?>">
+
+<?= $this->include("/Tasks/form.php"); ?>
+
 
 <button>Save </button>
 <a href="<?=site_url("/tasks/show/".$tasks['id'])?> "> Cancel </a>
-
-</div>
-
-
 </form>
 
     

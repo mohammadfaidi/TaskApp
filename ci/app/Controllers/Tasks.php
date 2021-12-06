@@ -42,7 +42,11 @@ class Tasks extends BaseController
 
 
     public function new(){
-      return view("Tasks/new");
+      return view("Tasks/new",[
+        'tasks' => [
+          'description' => ''
+        ]
+      ]);
     }
 
     public function create(){
@@ -58,7 +62,7 @@ class Tasks extends BaseController
       //  dd($model->errors());
       //session will create automatically (passed the error thru session (one called /value exist for one request or //one time eroor))
       //error called flash messages in session
-      return redirect()->back()->with('errors',$model->errors())->with('warning','invalid Data');
+      return redirect()->back()->with('errors',$model->errors())->with('warning','invalid Data')->withInput();
       }else{
         //$model->insertID
         //want to direct to show page 
@@ -70,6 +74,8 @@ class Tasks extends BaseController
      
 
     }
+
+
 
     
     public function edit($id){
@@ -94,7 +100,7 @@ class Tasks extends BaseController
       return redirect()->to("/tasks/show/$id")->with('info','Task updated Sucessfully ');
     }
     else{
-      return redirect()->back()->with('errors',$model->errors())->with('warning','invalid data');
+      return redirect()->back()->with('errors',$model->errors())->with('warning','invalid data')->withInput();
 
     }
     

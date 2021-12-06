@@ -25,16 +25,11 @@
 
 
 <?=form_open("/tasks/create") ?>
-<div>
-<label for="description"> Description </lable>
-<input type="text" name="description" id="description" value="">
+
+<?= $this->include("/Tasks/form.php"); ?>
 
 <button>Save </button>
 <a href="<?=site_url("/tasks")?> "> Cancel </a>
-
-</div>
-
-
 </form>
 
     
