@@ -129,3 +129,41 @@ CRITICAL - 2021-12-06 02:25:52 --> Undefined index: id
 #11 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
 #12 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
 #13 {main}
+ERROR - 2021-12-06 02:45:00 --> Table 'taskapp.student' doesn't exist
+CRITICAL - 2021-12-06 02:45:00 --> Table 'taskapp.student' doesn't exist
+#0 C:\xampp\htdocs\ci\system\Database\MySQLi\Connection.php(292): mysqli->query('select * from s...', 0)
+#1 C:\xampp\htdocs\ci\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('select * from s...')
+#2 C:\xampp\htdocs\ci\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('select * from s...')
+#3 C:\xampp\htdocs\ci\app\Controllers\Test.php(21): CodeIgniter\Database\BaseConnection->query('select * from s...')
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->index()
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-06 04:14:50 --> Cannot use object of type App\Entities\Task as array
+#0 C:\xampp\htdocs\ci\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\ci\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\ci\system\Common.php(1097): CodeIgniter\View\View->render('Tasks/index', Array, true)
+#3 C:\xampp\htdocs\ci\app\Controllers\Tasks.php(24): view('Tasks/index', Array)
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Tasks->index()
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tasks))
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-06 05:14:25 --> Call to undefined method App\Entities\Task::save()
+#0 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Tasks->update('7')
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tasks))
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-06 05:16:14 --> There is no data to update.
+#0 C:\xampp\htdocs\ci\system\BaseModel.php(1593): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\ci\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(Array, 'update')
+#2 C:\xampp\htdocs\ci\system\Model.php(646): CodeIgniter\BaseModel->update(Array, Object(App\Entities\Task))
+#3 C:\xampp\htdocs\ci\system\BaseModel.php(656): CodeIgniter\Model->update('9', Object(App\Entities\Task))
+#4 C:\xampp\htdocs\ci\app\Controllers\Tasks.php(129): CodeIgniter\BaseModel->save(Object(App\Entities\Task))
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Tasks->update('9')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tasks))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

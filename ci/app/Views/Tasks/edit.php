@@ -24,13 +24,13 @@
 
 
 
-<?=form_open("/tasks/update/".$tasks['id']) ?>
+<?=form_open("/tasks/update/".$tasks->id) ?>
 
 <?= $this->include("/Tasks/form.php"); ?>
 
 
 <button>Save </button>
-<a href="<?=site_url("/tasks/show/".$tasks['id'])?> "> Cancel </a>
+<a href="<?=site_url("/tasks/show/".$tasks->id)?> "> Cancel </a>
 </form>
 
     

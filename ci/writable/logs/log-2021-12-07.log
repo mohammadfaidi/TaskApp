@@ -1,0 +1,84 @@
+ERROR - 2021-12-07 02:57:10 --> Table 'taskapp.student' doesn't exist
+CRITICAL - 2021-12-07 02:57:10 --> Table 'taskapp.student' doesn't exist
+#0 C:\xampp\htdocs\ci\system\Database\MySQLi\Connection.php(292): mysqli->query('select * from s...', 0)
+#1 C:\xampp\htdocs\ci\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('select * from s...')
+#2 C:\xampp\htdocs\ci\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('select * from s...')
+#3 C:\xampp\htdocs\ci\app\Controllers\Test.php(21): CodeIgniter\Database\BaseConnection->query('select * from s...')
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->index()
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-12-07 02:57:20 --> Undefined variable: task
+#0 C:\xampp\htdocs\ci\app\Views\Tasks\show.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\ci\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1097): CodeIgniter\View\View->render('Tasks/show', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Tasks.php(54): view('Tasks/show', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Tasks->show('1')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tasks))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-12-07 02:58:45 --> Undefined variable: task
+#0 C:\xampp\htdocs\ci\app\Views\Tasks\show.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\ci\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1097): CodeIgniter\View\View->render('Tasks/show', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Tasks.php(54): view('Tasks/show', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Tasks->show('1')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tasks))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-12-07 02:58:46 --> Undefined variable: task
+#0 C:\xampp\htdocs\ci\app\Views\Tasks\show.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\ci\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1097): CodeIgniter\View\View->render('Tasks/show', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Tasks.php(54): view('Tasks/show', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Tasks->show('1')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tasks))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-12-07 02:58:48 --> Undefined variable: task
+#0 C:\xampp\htdocs\ci\app\Views\Tasks\show.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\ci\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1097): CodeIgniter\View\View->render('Tasks/show', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Tasks.php(54): view('Tasks/show', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Tasks->show('1')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tasks))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-12-07 02:58:51 --> Undefined variable: task
+#0 C:\xampp\htdocs\ci\app\Views\Tasks\show.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 29, Array)
+#1 C:\xampp\htdocs\ci\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ci\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ci\system\Common.php(1097): CodeIgniter\View\View->render('Tasks/show', Array, true)
+#4 C:\xampp\htdocs\ci\app\Controllers\Tasks.php(54): view('Tasks/show', Array)
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Tasks->show('2')
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tasks))
+#7 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-12-07 03:00:51 --> Undefined variable: task
+#0 C:\xampp\htdocs\ci\app\Controllers\Tasks.php(189): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 189, Array)
+#1 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Tasks->delete('2')
+#2 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tasks))
+#3 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-07 03:28:16 --> Table 'taskapp.student' doesn't exist
+CRITICAL - 2021-12-07 03:28:16 --> Table 'taskapp.student' doesn't exist
+#0 C:\xampp\htdocs\ci\system\Database\MySQLi\Connection.php(292): mysqli->query('select * from s...', 0)
+#1 C:\xampp\htdocs\ci\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('select * from s...')
+#2 C:\xampp\htdocs\ci\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('select * from s...')
+#3 C:\xampp\htdocs\ci\app\Controllers\Test.php(21): CodeIgniter\Database\BaseConnection->query('select * from s...')
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->index()
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

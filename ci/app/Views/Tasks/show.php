@@ -14,18 +14,19 @@
 <a href="<?= site_url("/tasks") ?>">&laquo; back to index</a>
 <dl>
     <dt>ID</dt>
-    <dd><?=$tasks['id']?></dd>
+    <dd><?=$tasks->id?></dd>
 
     <dt>Description</dt>
     <!-- to prvent xss using esc -->
 
-    <dd><?=esc($tasks['description'])?></dd>
+    <dd><?=esc($tasks->description)?></dd>
 
 
 
 </dl>
 
-  <a href="<?= site_url('/tasks/edit/' . $tasks['id']) ?>">Edit</a> 
+  <a href="<?= site_url('/tasks/edit/' . $tasks->id) ?>">Edit</a> 
+  <a href="<?= site_url('/tasks/delete/' . $tasks->id) ?>">Delete</a>
 
 </body>
 </html>
