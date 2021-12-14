@@ -1,0 +1,11 @@
+ERROR - 2021-12-09 03:36:53 --> Table 'taskapp.student' doesn't exist
+CRITICAL - 2021-12-09 03:36:53 --> Table 'taskapp.student' doesn't exist
+#0 C:\xampp\htdocs\ci\system\Database\MySQLi\Connection.php(292): mysqli->query('select * from s...', 0)
+#1 C:\xampp\htdocs\ci\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('select * from s...')
+#2 C:\xampp\htdocs\ci\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('select * from s...')
+#3 C:\xampp\htdocs\ci\app\Controllers\Test.php(21): CodeIgniter\Database\BaseConnection->query('select * from s...')
+#4 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Test->index()
+#5 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#6 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

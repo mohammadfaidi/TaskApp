@@ -1,0 +1,45 @@
+ERROR - 2021-12-08 04:42:13 --> Duplicate entry 'moh2@gmail.com' for key 'email'
+CRITICAL - 2021-12-08 04:42:13 --> Duplicate entry 'moh2@gmail.com' for key 'email'
+#0 C:\xampp\htdocs\ci\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\ci\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\ci\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\ci\system\Database\BaseBuilder.php(1759): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\ci\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\ci\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\ci\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\ci\app\Controllers\Signup.php(17): CodeIgniter\Model->insert(Object(App\Entities\User))
+#8 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Signup->create()
+#9 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Signup))
+#10 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2021-12-08 04:58:22 --> Unknown column 'password' in 'field list'
+CRITICAL - 2021-12-08 04:58:22 --> Unknown column 'password' in 'field list'
+#0 C:\xampp\htdocs\ci\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\ci\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\ci\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\ci\system\Database\BaseBuilder.php(1759): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\ci\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\ci\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\ci\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\ci\app\Controllers\Signup.php(17): CodeIgniter\Model->insert(Object(App\Entities\User))
+#8 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Signup->create()
+#9 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Signup))
+#10 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2021-12-08 04:59:00 --> Duplicate entry '' for key 'email'
+CRITICAL - 2021-12-08 04:59:00 --> Duplicate entry '' for key 'email'
+#0 C:\xampp\htdocs\ci\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\ci\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\ci\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\ci\system\Database\BaseBuilder.php(1759): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\ci\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\ci\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\ci\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\ci\app\Controllers\Signup.php(17): CodeIgniter\Model->insert(Object(App\Entities\User))
+#8 C:\xampp\htdocs\ci\system\CodeIgniter.php(824): App\Controllers\Signup->create()
+#9 C:\xampp\htdocs\ci\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Signup))
+#10 C:\xampp\htdocs\ci\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
